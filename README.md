@@ -3,8 +3,6 @@
 
 ## 💻 Skills
 
-I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
-
 1. Frontend
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
