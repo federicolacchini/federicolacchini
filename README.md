@@ -3,7 +3,7 @@
 
 ## 💻 Skills
 
-1. Frontend
+Frontend
 - ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
 ![React Native](https://img.shields.io/badge/-React.native-blue?logo=react)
@@ -14,8 +14,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3)
 ![SASS](https://img.shields.io/badge/-SASS-pink?logo=sass)
 
-
-3. Backend
+Backend
 - ![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
