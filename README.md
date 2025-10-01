@@ -6,7 +6,7 @@
 I have a strong passion for front-End development and proficiency in a range of technologies including backend, including:
 
 1. Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
+- ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?logo=typescript)
 ![React.js](https://img.shields.io/badge/-React.js-blue?logo=react)
 ![React Native](https://img.shields.io/badge/-React.native-blue?logo=react)
@@ -19,7 +19,7 @@ I have a strong passion for front-End development and proficiency in a range of 
 
 
 3. Backend
-![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
+- ![Solidity](https://img.shields.io/badge/-Solidity-gray?logo=solidity)
 ![C++](https://img.shields.io/badge/-C++-blue?logo=c%2B%2B)
 ![Node.js](https://img.shields.io/badge/-Node.js-green?logo=node.js)
 ![Express.js](https://img.shields.io/badge/-Express.js-lightgrey?logo=express)
